@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/minosniu/hnrss.svg)](https://travis-ci.org/minosniu/hnrss)
+[![Build Status](https://travis-ci.org/minosniu/hnrss-cmn.svg?branch=master)](https://travis-ci.org/minosniu/hnrss-cmn)
 
 hnrss — Hacker News RSS
 ========================
